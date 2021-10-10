@@ -1,0 +1,6 @@
+This e2e test, tests the functionality of
+the game when the player decides to quit the game
+in between.
+
+The game should end gracefully with a "Bye!"
+message.

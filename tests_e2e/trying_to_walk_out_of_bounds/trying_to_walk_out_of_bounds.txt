@@ -1,0 +1,12 @@
+This e2e test, tests the functionality of
+the game when the player tries to walk out 
+of bounds. This means that player tries to 
+move outside the grid.
+
+In this case, it should act like a wall.
+The player should not be allowed to move,
+with an appropriate message telling that
+they tried to walk into a wall.
+
+This move should not be added in the list,
+and number of moves made by the player.

@@ -1,0 +1,4 @@
+This e2e test, tests the functionality of the 
+game when the game configuration has more
+fire than water buckets present.
+

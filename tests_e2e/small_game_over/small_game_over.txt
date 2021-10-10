@@ -1,0 +1,4 @@
+This e2e test, is checking the full functionality of 
+the game.
+It is checking this for a small game configuration 
+when the player loses in the end.

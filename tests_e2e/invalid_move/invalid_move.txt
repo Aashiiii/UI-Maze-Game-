@@ -1,0 +1,8 @@
+This e2e test, is tesing if the game is handling
+invalid user inputs correctly or not.
+
+In case of invalid moves, the player should be asked
+to input again till they enter a valid move.
+
+It is testing the game for different kinds of invalid
+moves possible.

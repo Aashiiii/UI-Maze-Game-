@@ -1,0 +1,6 @@
+This e2e test, tests whether the teleport pads
+are working correctly or not.
+
+It tests whether the player is being 
+teleported successfully or not, when
+they step on a teleport pad.

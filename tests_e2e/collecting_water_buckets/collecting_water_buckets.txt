@@ -1,0 +1,7 @@
+This e2e test, tests whether the game is 
+correctly updating the number of water
+buckets the player is collecting on the way or not.
+
+In this test, player collects water buckets, but 
+never uses then as there is no fire.
+

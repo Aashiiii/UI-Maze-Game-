@@ -1,0 +1,8 @@
+This e2e test, tests whether the game is working
+correctly or not when the player decides to 
+wait (by inputting 'e' ) on a teleport cell.  
+In this case, the player should be teleported again.
+
+The player should be allowed to wait any number
+of times they want.
+

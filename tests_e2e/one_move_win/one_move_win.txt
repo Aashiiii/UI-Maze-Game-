@@ -1,0 +1,4 @@
+This e2e test, tests the case when the game
+configuration is designed such that ,there is
+only one possible move for the player, and
+that move results in a win.

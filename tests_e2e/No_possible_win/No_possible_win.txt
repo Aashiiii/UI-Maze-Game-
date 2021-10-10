@@ -1,0 +1,7 @@
+This e2e test, tests the working of the game for the 
+game configuration when the maze has no solution.
+
+There is no possible way, this game could be won.
+The End cell is guarded with fire and the water bucket 
+is enclosed with wall cells.The player cannot collect
+the water bucket anyhow.

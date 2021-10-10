@@ -1,0 +1,6 @@
+This e2e test, tests whether the game is working correctly
+or not in the case when user inputs moves in uppercase 
+rather than lowercase.
+
+The game should work similarly for both uppercase and
+lowercase moves.

@@ -1,0 +1,6 @@
+This e2e test, tests the functionality of
+the game when there is only one path
+possible for the player to win.
+
+The configuration is designed such that 
+there is only one possible path.

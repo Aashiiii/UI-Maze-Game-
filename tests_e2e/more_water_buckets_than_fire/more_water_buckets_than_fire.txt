@@ -1,0 +1,11 @@
+This e2e test, tests the functionality of the game
+when there are more water buckets available,
+than there are fire.
+
+The player has more water buckets available to collect,
+than it needs to extinguish the fire.
+
+It tests whether the number of water buckets the player 
+has are being updated correctly or not.
+
+
